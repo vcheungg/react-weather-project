@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://github.com/vcheungg"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Vivian Cheung
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/vcheungg/react-weather-project"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on Github.
           </a>{" "}
@@ -28,7 +28,7 @@ export default function App() {
           <a
             href="https://react-v-app.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             hosted on Netlify.
           </a>
